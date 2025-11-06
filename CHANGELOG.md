@@ -1,12 +1,12 @@
 # Changelog
 
-## [2.0.2a1](https://github.com/JarbasHiveMind/HiveMind-voice-sat/tree/2.0.2a1) (2024-12-21)
+## [2.0.2a2](https://github.com/ANT0071/HiveMind-voice-sat/tree/2.0.2a2) (2025-11-06)
 
-[Full Changelog](https://github.com/JarbasHiveMind/HiveMind-voice-sat/compare/2.0.1...2.0.2a1)
+[Full Changelog](https://github.com/ANT0071/HiveMind-voice-sat/compare/d707b4b8a3beba8cd380592f954ecd8f7ee24cec...2.0.2a2)
 
 **Merged pull requests:**
 
-- fix: port from identity file [\#44](https://github.com/JarbasHiveMind/HiveMind-voice-sat/pull/44) ([JarbasAl](https://github.com/JarbasAl))
+- Add GitHub Actions workflow for Python package with Conda [\#1](https://github.com/ANT0071/HiveMind-voice-sat/pull/1) ([ANT0071](https://github.com/ANT0071))
 
 
 
