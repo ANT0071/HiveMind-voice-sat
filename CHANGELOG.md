@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.0.2a3](https://github.com/ANT0071/HiveMind-voice-sat/tree/2.0.2a3) (2025-11-06)
+
+[Full Changelog](https://github.com/ANT0071/HiveMind-voice-sat/compare/2.0.2a2...2.0.2a3)
+
 ## [2.0.2a2](https://github.com/ANT0071/HiveMind-voice-sat/tree/2.0.2a2) (2025-11-06)
 
 [Full Changelog](https://github.com/ANT0071/HiveMind-voice-sat/compare/d707b4b8a3beba8cd380592f954ecd8f7ee24cec...2.0.2a2)
